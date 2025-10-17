@@ -1,0 +1,9 @@
+{
+  character(id: 4) {
+    id
+    name
+    species
+    type
+    gender
+  }
+}
